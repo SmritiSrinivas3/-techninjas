@@ -53,9 +53,14 @@ header a{
    color: #ffffff;
 }
 
-.left-section p{
+.left-section p1{
 	margin:0;
-	font-size: 14px;
+	font-size: 18px;
 	color: #ffffff; 
 
+}
+.leftsection p2{
+	font family:Tahoma;
+	font size:11px;
+	color:white;
 }
